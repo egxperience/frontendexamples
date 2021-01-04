@@ -5,7 +5,7 @@
 ## Thank you for checking this page
 Project completed using followinng tool/languages:
 - Visual editor VS Code + Chromium browser (Chrome and Brave);
-- Bootstap5 + MDN vanilla CSS Tutorial;
+- Bootstrap5 + MDN vanilla CSS Tutorial;
 - Git Browser to upload the files.
 
 
